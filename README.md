@@ -1,0 +1,2 @@
+# Multi-Hop-RAG-Pipeline-for-PDF-Question-Answering-with-FAISS-and-Mistral-7B
+A complete multi-hop Retrieval-Augmented Generation (RAG) pipeline that answers complex questions from PDF documents. It chunks text, encodes passages with DPR, indexes using FAISS, reranks via CrossEncoder, refines queries across hops, and generates grounded answers with Mistral-7B. Ideal for legal and research QA workflows
